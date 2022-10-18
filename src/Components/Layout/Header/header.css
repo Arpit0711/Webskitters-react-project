@@ -1,0 +1,10 @@
+/* .Header__navbar {
+  background-color: #070707 !important;
+} */
+.Nav__link {
+  color: tomato !important;
+}
+
+.active{
+  background-color: #99080a !important;
+}

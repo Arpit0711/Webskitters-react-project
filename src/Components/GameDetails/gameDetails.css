@@ -1,0 +1,52 @@
+.gameDetails {
+  background-color: #1a171b;
+  height: auto;
+}
+
+.gameDetails__container {
+  margin: auto;
+  height: auto;
+  width: 80vw;
+  background-color: #070707;
+  padding: 3rem;
+  color: white;
+}
+
+.gameDetails_name__rating {
+  display: flex;
+  justify-content: space-evenly;
+}
+.gameDetails_name__rating > h3 {
+  background-color: #1a171b;
+  padding: 2rem;
+}
+
+.gameDetails_name__rating > h4 {
+  padding: 2rem;
+  background-color: #1a171b;
+}
+
+.gameDetails__img {
+  height: 20rem;
+  width: 40rem;
+  margin-top: 1rem;
+}
+
+span {
+  color: #99080a;
+}
+
+.gameDetails__desc {
+  margin: auto;
+  margin-top: 2rem !important;
+  border: 2px solid #99080a;
+  padding: 1rem;
+  background-color: #1a171b;
+  font-family: "Montserrat", sans-serif;
+  /* width: 50rem; */
+}
+
+.gameDetails_website__released {
+  padding: 1rem;
+  background-color: #1a171b;
+}

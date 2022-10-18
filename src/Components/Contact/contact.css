@@ -1,0 +1,69 @@
+.contact{
+    background-color: #1a171b;
+    color:white;
+}
+
+.contactformLabel{
+    margin-top:3rem;
+    font-size: 1.5rem;;
+}
+
+.contactformLabelMessage{
+    margin-top:1rem;
+    font-size:1.5rem;
+}
+
+.contact__container{
+  background-color: #070707;
+  padding:1rem;
+  width:50rem;
+  height: 40rem;
+  margin:auto;
+}
+
+.contact__containerEmailPhone{
+    background-color: #1a171b;
+    padding:1rem;
+  
+}
+
+
+.contact__containerEmailPhone{
+    text-align: start !important;
+    margin-left: 10rem;
+    width:30rem;
+}
+.contact__containerEmailSpan{
+    margin-left:1rem;
+}
+
+.contact__formName{
+    width:15rem !important;
+    margin-right:.6rem;
+}
+
+ .contact__formEmail{
+width: 15rem !important;;
+/* margin-left:1rem !important;s */
+}
+
+.contact__formPhone{
+    width:15rem;
+    margin-left:.6rem;
+}
+
+.contact__formPhoneMessage{
+    margin:auto;
+
+    width: 46rem !important;
+    height: 13rem;
+}
+
+.contact__formbutton{
+    margin-top:4rem;
+    padding:.5rem;
+    width:10rem;
+    background-color: #99080a;
+    font-weight: bold;
+    border-radius: 999px;
+}

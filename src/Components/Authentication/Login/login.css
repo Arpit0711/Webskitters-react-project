@@ -1,0 +1,43 @@
+.login {
+  background-color: #1a171b;
+  height: 90vh;
+  padding-top: 4rem;
+}
+h3 {
+  color: white;
+}
+
+.login__form {
+  background-color: #070707;
+  width: 30rem;
+  height: 50vh;
+  margin: auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  font-weight: bold;
+  color: #99080a;
+}
+
+input {
+  padding: 0.2rem;
+  width: 25rem;
+}
+
+.login__button {
+  padding: 0.5rem;
+  width: 5rem;
+  width: 8rem;
+  border-radius: 999px;
+  background-color: #99080a;
+  color: white;
+  font-weight: bold;
+}
+
+.login__h5{
+  margin-top:1rem;
+  color:white;
+}

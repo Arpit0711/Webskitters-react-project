@@ -1,0 +1,24 @@
+.profile{
+    background-color: #1a171b;
+    height:100vh;
+}
+
+.profile__container{
+    height: 50rem;
+    background-color: #070707;
+    width:30rem;
+    margin:auto;
+}
+
+.profile__container--h1{
+    padding-top:10rem;
+    color:white;
+}
+
+.logout__button{
+    padding:.5rem;
+    margin-top:1rem;
+    width:10rem;
+    background-color:#99080a;
+    border-radius:999px;
+}

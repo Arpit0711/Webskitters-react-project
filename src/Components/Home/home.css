@@ -1,0 +1,174 @@
+.home {
+  background-color: #1a171b;
+  height: 150rem;
+  /* position: relative; */
+}
+.home__img {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.home__h1 {
+  position: absolute;
+  font-family: "Kanit", sans-serif;
+  top: 50%;
+  left: 15%;
+  color: #99080a;
+  font-size: xx-large;
+}
+
+.home__button {
+  position: absolute;
+  top: 23rem;
+  left: 200px;
+  padding: 1rem;
+  width: 10rem;
+  border-radius: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  background-color: #1a171b;
+  color: #99080a;
+}
+
+.home__button:hover {
+  background-color: #212529;
+  color: #c7c8c9;
+}
+
+.home__Heading {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: -3rem;
+  margin-top: 3rem !important;
+  background-color: #070707;
+  height: 10rem;
+  text-align: center;
+  padding-top: 4rem;
+  width: 80%;
+  margin: auto;
+}
+
+.card-group {
+  margin: 5rem;
+}
+
+.card {
+  height: 20rem !important;
+  width: 1rem;
+  margin: 1rem;
+  padding: 1rem;
+  font-family: "Montserrat", sans-serif !important;
+  background-color: #070707 !important;
+  color: white !important;
+}
+.card:hover {
+  transition: ease-in-out 0.3s;
+  scale: 1.2;
+}
+
+.card-img-top {
+  height: 15rem;
+  width: 6rem;
+  /* object-fit: cover; */
+
+  /* .card__title {
+  font-family: "Montserrat", sans-serif !important;
+  color: green !important;
+} */
+}
+.home__newletter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #070707;
+  padding: 3rem;
+}
+
+.home__newletterImg {
+  height: 25rem;
+
+  /* width: 20rem; */
+}
+
+.home__newsletter2 {
+  color: white;
+  /* font-family: "Oswald", sans-serif; */
+}
+
+.home__newsletter2 > h2 > span {
+  color: #99080a;
+}
+
+.home__newsLetterInput {
+  width: 22rem !important;
+  height: 3rem;
+  padding: 1rem;
+  border: 2px solid #403a42;
+  font-weight: bold;
+  background-color: #1a171b;
+}
+
+.home__newsLetterInput:focus {
+  outline: none;
+}
+
+.home__newsLetterButton {
+  height: 3rem;
+  /* padding: 1rem; */
+  background-color: #99080a;
+  border: none;
+}
+.home__newsLetterButton > .MuiSvgIcon-root {
+  color: white;
+}
+
+.home__platforms {
+  color: white;
+  margin-top: 2rem;
+  font-family: "Montserrat", sans-serif;
+  background-color: #070707;
+  padding: 1rem;
+  margin-bottom: 1rem !important;
+  /* width: 90%; */
+  margin: auto;
+}
+
+.home__platformsCat {
+  color: #99080a;
+  display: flex;
+  justify-content: space-around;
+}
+
+.home__platformCatPc {
+  background-color: #1a171b;
+  width: 14rem;
+  display: inline;
+  align-items: center;
+  justify-content: center;
+}
+
+.home__platformCatPc > h2 {
+  margin-top: 1rem;
+}
+
+.home__platformCatPs {
+  background-color: #1a171b;
+  width: 14rem;
+  /* display: flex; */
+  align-items: center;
+  padding: 1rem;
+  justify-content: center;
+}
+
+.home__platformCatXbox {
+  background-color: #1a171b;
+  width: 14rem;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+}
+
+.home__platformCatXbox > h2 {
+  margin-top: 1rem;
+}

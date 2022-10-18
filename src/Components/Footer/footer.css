@@ -1,0 +1,17 @@
+.footer {
+  background-color: #212529;
+  height: 10rem;
+  color: #c7c8c9;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  flex-direction: column;
+  background-color: #070707;
+}
+
+.footer__icons {
+  margin-bottom: 1rem;
+}

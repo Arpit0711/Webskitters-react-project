@@ -1,0 +1,91 @@
+    {
+        "category":[
+            {
+                "cate_name": "Action",
+                "cate_id": "Ca01",
+                "desc": "Lorem ipsum",
+                "cate_img":"../../../../images/action.jpg",
+                "sub_cate":[
+                    {
+                        "c_id":"c01",
+                        "game_name": "Grand theft auto V",
+                        "rating": "4.7",
+                        "sub_desc": "Experience entertainment blockbusters, Grand Theft Auto V and GTA Online.",
+                        "c_img": "../../../../images/Gta-V.png"
+                    },
+                    {
+                        "c_id":"c02",
+                        "game_name": "Batman Arkham city",
+                        "rating": "4.5",
+                        "sub_desc": "Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum",
+                        "c_img": "../../../../images/bat.jpg"
+                    },
+                    {
+                        "c_id":"c03",
+                        "game_name": "Counter Strike",
+                        "rating": "4.9",
+                        "sub_desc": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay",
+                        "c_img": "../../../../images/csgo.jpg"
+                    }
+                ]
+            },
+            {
+                "cate_name": "Racing",
+                "cate_id": "Ca02",
+                "desc": "Lorem ipsum",
+                "cate_img":"../../../../images/racing.webp",
+                "sub_cate": [
+                    {
+                        "c_id":"c04",
+                        "game_name": "Forza horizan 5",
+                        "rating": "4.7",
+                        "sub_desc": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.",
+                        "c_img": "../../../../images/fh5.png"
+                    },
+                    {
+                        "c_id":"c05",
+                        "game_name": "Asphalt 8 airborne",
+                        "rating": "4.3",
+                        "sub_desc": "With over 300 licensed vehicles, more than 75 tracks, and action-packed races both online and off, Asphalt 8 is leading the pack for mobile racing sims!",
+                        "c_img": "../../../../images/asp.jpg"
+                    },
+                    {
+                        "c_id":"c06",
+                        "game_name": "Burnout paradise",
+                        "rating": "4.4",
+                        "sub_desc": "Make action your middle name as you tear up the road in the ultimate driving playground, now available on Nintendo Switch.",
+                        "c_img": "../../../../images/bp.jpg"
+                    }
+                ]
+            },
+            {
+                "cate_name": "Adventure",
+                "cate_id": "Ca03",
+                "desc": "Lorem ipsum",
+                "cate_img":"../../../../images/adventure.jpg",
+                "sub_cate": [
+                    {
+                        "c_id":"c07",
+                        "game_name": "Stray",
+                        "rating": "4.2",
+                        "sub_desc": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten cybercity and find their way home.",
+                        "c_img": "../../../../images/stray.webp"
+                    },
+                    {
+                        "c_id":"c08",
+                        "game_name": "star wars jedi",
+                        "rating": "4.3",
+                        "sub_desc": "A new third-person action-adventure Star Wars™ title from Respawn Entertainment",
+                        "c_img": "../../../../images/star.webp"
+                    },
+                    {
+                        "c_id":"c09",
+                        "game_name": "The walking dead",
+                        "rating": "4.4",
+                        "sub_desc": "an episodic adventure video game developed and published by Telltale Games",
+                        "c_img": "../../../../images/twd.jpg"
+                    }
+                ]
+            }
+        ]
+    }

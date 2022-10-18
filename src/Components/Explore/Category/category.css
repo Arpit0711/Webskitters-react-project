@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box !important;
+}
+
+.category {
+  font-family: "Montserrat", sans-serif;
+  background-color: #1a171b;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding-left:2rem;
+  color: white;
+  
+}
+
+.cat__card {
+  width: 22rem !important;
+}
+
+.category__search {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  width: 30rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: #99080a;
+  padding: 0.5rem;
+}
+.category__search::placeholder {
+  color: #99080a;
+  font-size: x-large;
+}
